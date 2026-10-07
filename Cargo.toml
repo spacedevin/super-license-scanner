@@ -2,7 +2,7 @@
 name = "super-license-scanner"
 version = "0.1.0"
 edition = "2021"
-license = "PIF"
+license = "MIT"
 description = "A tool for recursively scanning dependency trees to extract their license info"
 authors = ["space"]
 
